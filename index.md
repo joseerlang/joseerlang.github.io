@@ -1,1 +1,1 @@
-Hello and welcome to this blog.
+Las opiniones y artículos reflejados en este site son totalmente personales.
