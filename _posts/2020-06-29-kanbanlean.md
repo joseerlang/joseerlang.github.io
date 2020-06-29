@@ -11,7 +11,7 @@ Recientemente tuve la suerte de asistir a un breve curso de metodología Lean y 
 El curso me ha resultado muy instructivo desde el punto de vista de la gestión diaria de tareas que cualquier empresa tienen internamente
 y particularmente en la forma de actuar siguiendo la metodología Lean basada principalmente en dos pilares fundamentales: el respeto al equipo y la mejora continua de los procesos.
 
-Entraré en más detalle posteriormente, pero me ha sorprendido positivamente tanto la forma de abordar la gestión de procesos como la baja o nula fricción que puede provocar la implantación de esta metodología o filosofía de desarrollo de software con respecto a otras alternativas actuales como Scrum o XP, que exigen una condiciones y formación más exahustivas.
+Entraré en más detalle posteriormente, pero me ha sorprendido positivamente tanto la forma de abordar la gestión de procesos como la baja o nula fricción que puede provocar la implantación de esta metodología o filosofía de desarrollo de software con respecto a otras alternativas actuales como Scrum o XP, que exigen condiciones y formación más exahustivas.
 
 
 ## Fundamentos de metodología Lean.
@@ -31,7 +31,7 @@ Para conseguir estos estándares de calidad, la metodología lean se fundamenta 
 ## Sistemas Lean/Kanban
 
 Un sistema Lean/Kanban se podría definir como un sistema de mejora de procesos basado en un sistema de **arrastre** con restricciones al trabajo en proceso y visualización del flujo.
-Es decir por un lado se establece una filosofía de desarrollo basado en Lean pero que se apoya de un tablón Kanban para visualizar el flujo de trabajo.
+Es decir, por un lado se establece una filosofía de desarrollo basado en Lean pero que se apoya de un tablón Kanban para visualizar el flujo de trabajo.
 Sobre este flujo de trabajo, se establece un sistema de límites (denominados límites WIP) que permiten establecer cuantas tareas simultaneas se pueden realizar por el equipo y se establece una política de arrastre en la cúal no se pasa una tarea entre procesos, sino que los miembros de equipo arrastran las tareas al siguiente proceso del tablero kanban siempre teniendo en cuenta los objetivos de máximo valor para el cliente.
 
 Una vez definido explícitamente las etapas de este proceso,se redactan para la mejor comprensión de los miembros del equipo de trabajo. Finalmente, se recopilan datos y se analizan de manera colaborativa si existe algún tipo de mejora en el proceso general.
