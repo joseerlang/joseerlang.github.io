@@ -43,6 +43,6 @@ Durante el curso, empecé a observar que posiblemente este tipo de metodología 
 
 Buscando algo en internet y teniendo en cuenta que la metodología se desarrollo en los años 50, no es muy extraño que en algún momento alguien con conocimientos de gestión industrial intentara abordar o transladar ésto a un entorno regulado en el ámbito farmacéutico siguiendo GxP. Y efectivamente así es, existe multitud de ejemplo en la literatura de procesos Lean y Kanban en entornos regulados GxP, principalmente en empresas biotecnológicas [ver más](https://www.elsevier.com/books/lean-biomanufacturing/smart/978-1-907568-78-7).
 
-Otro buen ejemplo que me encontré en youtube que explica la filosofía Lean en [industria] (https://www.youtube.com/watch?v=0xEN6VUTr0M). 
+Otro buen ejemplo que me encontré en youtube que explica la filosofía Lean en [industria](https://www.youtube.com/watch?v=0xEN6VUTr0M). 
 
  
